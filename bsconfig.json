@@ -1,0 +1,8 @@
+{
+  "name": "ReasonNativeProject",
+  "sources": "src",
+  "entries": [{
+    "kind": "bytecode",
+    "main": "Index"
+  }]
+}
